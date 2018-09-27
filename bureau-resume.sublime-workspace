@@ -1,0 +1,1185 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"col1",
+				"col-12\t main.css"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"w",
+				"w-100\t main.css"
+			],
+			[
+				"pos",
+				"position-absolute\t main.css"
+			],
+			[
+				"no",
+				"no-decoration\t main.css"
+			],
+			[
+				"dlg",
+				"d-lg-none\t main.css"
+			],
+			[
+				"py",
+				"py-5\t main.css"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"inv",
+				"invert\t main.css"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"na",
+				"name\t app.scss"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"pb",
+				"pb-6\t app.scss"
+			],
+			[
+				"bacgr",
+				"background"
+			],
+			[
+				"u",
+				"unl\tunitless() returns whether a number has units"
+			],
+			[
+				"backc",
+				"background-color"
+			],
+			[
+				"off",
+				"offset-md-0\t main.min.css"
+			],
+			[
+				"t",
+				"top\tproperty"
+			],
+			[
+				"mbm",
+				"mb-md-5\t main.min.css"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"con",
+				"container-fluid\t main.min.css"
+			],
+			[
+				"dmd",
+				"d-md-none\t main.min.css"
+			],
+			[
+				"col-m1",
+				"col-md-10\t main.min.css"
+			],
+			[
+				"mr-",
+				"mr-3\t main.min.css"
+			],
+			[
+				"d-i",
+				"d-inline-block\t main.min.css"
+			],
+			[
+				"off1",
+				"offset-md-1\t main.min.css"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"b",
+				"bottom\tproperty"
+			],
+			[
+				"гор",
+				"Горизонтально"
+			],
+			[
+				"pl",
+				"pl-5\t main.min.css"
+			],
+			[
+				"ml",
+				"ml-5\t main.min.css"
+			],
+			[
+				"my",
+				"my-5\t main.min.css"
+			],
+			[
+				"mt",
+				"mt-5\t main.min.css"
+			],
+			[
+				"col-md",
+				"col-md-6\t main.min.css"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"offset-l",
+				"offset-lg-4\t main.min.css"
+			],
+			[
+				"col-l",
+				"col-lg-2\t main.min.css"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"posi",
+				"position"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"f",
+				"fontawesome"
+			],
+			[
+				"do",
+				"dotted"
+			],
+			[
+				"te",
+				"text-muted\t(index.html)"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"tra",
+				"transparentize"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"posit",
+				"position"
+			],
+			[
+				"col-m",
+				"col-md-9"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"baco",
+				"background-color"
+			],
+			[
+				"si",
+				"font-size"
+			],
+			[
+				"tran",
+				"transparentize"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"mat",
+				"margin-top"
+			],
+			[
+				"d-m",
+				"d-md-block\t main.css"
+			],
+			[
+				"tec",
+				"text-center\t main.css"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"btn",
+				"btn-sm\t(index.html)"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"al",
+				"alert\t(index.html)"
+			],
+			[
+				"a",
+				"alert\t(index.html)"
+			],
+			[
+				"gr",
+				"gradient"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"med",
+				"media-breakpoint-up"
+			],
+			[
+				"inc",
+				"include\t(_mixins.scss)"
+			],
+			[
+				"me",
+				"menuLimiter"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"make",
+				"make-row"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"fontsi",
+				"font-size"
+			],
+			[
+				"offset",
+				"offset-2\t main.css"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"d-",
+				"d-none\t main.css"
+			],
+			[
+				"lists",
+				"list-style"
+			],
+			[
+				"bas",
+				"background-size"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"wid",
+				"width=device-width\t(index.html)"
+			],
+			[
+				"position",
+				"position-relative\t main.css"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"im",
+				"important"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 4703,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 2578,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1139,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/js/main.js",
+			"settings":
+			{
+				"buffer_size": 1351,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/js/app.js",
+			"settings":
+			{
+				"buffer_size": 809,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/css/scss/app.scss",
+			"settings":
+			{
+				"buffer_size": 1259,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/css/scss/_mixins.scss",
+			"settings":
+			{
+				"buffer_size": 3906,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: del",
+				"Package Control: Disable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Work/Private/Resume",
+		"/D/Work/Private/Resume/app",
+		"/D/Work/Private/Resume/app/css",
+		"/D/Work/Private/Resume/app/css/scss",
+		"/D/Work/Private/Resume/app/js",
+		"/D/Work/Private/Resume/build"
+	],
+	"file_history":
+	[
+		"/D/Work/Private/Resume/app/css/scss/_variables.scss",
+		"/D/Work/Private/Resume/app/css/scss/_mixins.scss",
+		"/D/Work/Private/Resume/app/index.html​",
+		"/D/Work/Private/Resume/app/js/app.js",
+		"/D/Work/Private/Resume/app/js/main.js​",
+		"/D/Work/Private/Resume/app/css/scss/main.scss",
+		"/D/Work/Private/Resume/app/css/scss/app.scss",
+		"/D/Work/Private/Resume/app/css/scss/app.scss​",
+		"/D/Work/exdesign/site new 2018/html/app/css/scss/_variables.scss",
+		"/D/Work/exdesign/site new 2018/html/app/css/scss/_mixins.scss",
+		"/D/Work/exdesign/site new 2018/html/app/css/scss/app.scss",
+		"/D/Work/exdesign/site new 2018/html/gulpfile.js",
+		"/D/Work/exdesign/site new 2018/html/app/templates.html",
+		"/D/Work/exdesign/site new 2018/html/app/index-main.html",
+		"/D/Work/exdesign/site new 2018/html/app/index.html",
+		"/D/Work/exdesign/site new 2018/html/app/js/app.js",
+		"/D/Work/exdesign/site new 2018/html/app/index-base.html",
+		"/D/Work/exdesign/site new 2018/html/app/js/main.js",
+		"/D/Work/exdesign/site new 2018/html/app/header-invert.html",
+		"/D/Work/exdesign/site new 2018/html/app/header.html",
+		"/D/Work/exdesign/site new 2018/html/build/index.html",
+		"/D/Work/exdesign/site new 2018/html/prod/index.html",
+		"/D/Work/exdesign/site new 2018/html/prod/css/main.css",
+		"/D/Work/exdesign/site new 2018/html/build/css/main.css",
+		"/D/Work/exdesign/site new 2018/html/app/head.html",
+		"/D/Work/exdesign/site new 2018/html/build/css/main.min.css",
+		"/D/Work/exdesign/site new 2018/html/build/head.html",
+		"/D/Work/exdesign/site new 2018/html/prod/ftpsync.settings",
+		"/D/Work/exdesign/site new 2018/html/build/ftpsync.settings",
+		"/D/Work/exdesign/site new 2018/html/build/header.html",
+		"/D/Work/exdesign/site new 2018/html/app/sledizastroykoi.html",
+		"/D/Work/exdesign/site new 2018/html/node_modules/bootstrap/scss/utilities/_sizing.scss",
+		"/D/Work/exdesign/site new 2018/html/node_modules/bootstrap/scss/utilities/_spacing.scss",
+		"/D/Work/exdesign/site new 2018/html/node_modules/bootstrap/scss/_variables.scss",
+		"/D/Work/exdesign/site new 2018/html/app/footer.html",
+		"/D/Work/exdesign/site new 2018/html/app/img/app_store_badge_ru.svg",
+		"/D/Work/exdesign/site new 2018/html/app/img/google-play-badge.svg",
+		"/D/Work/exdesign/site new 2018/html/package.json",
+		"/D/Work/exdesign/site new 2018/html/app/img/exdesign-logo.svg",
+		"/D/Work/exdesign/site new 2018/html/app/css/scss/main.scss",
+		"/C/Users/Andrey/AppData/Roaming/Sublime Text 3/Packages/CSScomb/README.md",
+		"/C/Users/Andrey/AppData/Roaming/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+		"/C/Users/Andrey/AppData/Roaming/Sublime Text 3/Packages/User/All Autocomplete.sublime-settings",
+		"/D/Work/exdesign/site new 2018/html/app/js/doubleHover.js",
+		"/D/Work/exdesign/site new 2018/html/node_modules/jquery/README.md",
+		"/D/Work/exdesign/site new 2018/html/.npmrc",
+		"/D/Work/Private/whamisa/html/app/css/scss/_variables.scss",
+		"/D/Work/Private/whamisa/html/app/css/scss/_mixins.scss",
+		"/D/Work/Private/whamisa/html/gulpfile.js",
+		"/D/Work/Private/whamisa/html/app/css/scss/app.scss",
+		"/D/Work/Private/whamisa/html/app/js/app.js",
+		"/D/Work/Private/whamisa/html/app/header.html",
+		"/D/Work/Private/whamisa/html/app/base.html",
+		"/D/Work/Private/whamisa/whamisa.sublime-project",
+		"/D/Work/Private/whamisa/html/app/index.html",
+		"/D/Work/Private/whamisa/html/app/js/main.js",
+		"/D/Work/Private/whamisa/html/package.json",
+		"/D/Work/Private/whamisa/html/build/js/main.js",
+		"/D/Work/Private/whamisa/html/app/head.html",
+		"/D/Work/Private/whamisa/html/app/footer.html",
+		"/D/Work/Private/whamisa/html/node_modules/bootstrap/scss/mixins/_breakpoints.scss",
+		"/D/Work/Private/whamisa/html/node_modules/bootstrap/scss/_variables.scss",
+		"/C/Users/Andrey/AppData/Roaming/Sublime Text 3/Packages/BufferScroll/BufferScroll.sublime-settings",
+		"/C/Users/Andrey/AppData/Roaming/Sublime Text 3/Packages/User/BufferScroll.sublime-settings",
+		"/D/Work/Private/whamisa/html/node_modules/bootstrap/scss/mixins/_forms.scss",
+		"/D/Work/Private/whamisa/html/node_modules/bootstrap/scss/_mixins.scss",
+		"/D/Work/Private/whamisa/html/app/css/scss/main.scss",
+		"/D/Work/Private/whamisa/html/node_modules/owl.carousel/dist/assets/owl.carousel.css",
+		"/D/Work/Private/whamisa/html/node_modules/owl.carousel/dist/assets/owl.theme.default.css",
+		"/D/Work/Private/whamisa/html/build/css/main.css",
+		"/C/Users/Andrey/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/Andrey/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/D/Work/Private/whamisa/package-lock.json",
+		"/D/Dropbox/Current_Job/whamisa/html/package.json",
+		"/D/Dropbox/Current_Job/whamisa/html/gulpfile.js",
+		"/D/Dropbox/Current_Job/whamisa/html/app/js/app.js",
+		"/D/Dropbox/Current_Job/whamisa/html/build/js/main.js",
+		"/D/Dropbox/Current_Job/whamisa/html/app/js/main.js",
+		"/D/Dropbox/Current_Job/whamisa/html/app/css/scss/main.scss",
+		"/D/Dropbox/Current_Job/whamisa/html/node_modules/bootstrap/scss/bootstrap.scss",
+		"/D/Dropbox/Current_Job/whamisa/html/build/css/main.css",
+		"/D/Dropbox/Current_Job/whamisa/html/app/css/scss/_variables.scss",
+		"/D/Dropbox/Current_Job/whamisa/html/app/css/scss/_mixins.scss",
+		"/D/Dropbox/Current_Job/whamisa/whamisa.sublime-project",
+		"/W/deco-rum.loc/www/simpla/design/js/highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/resources/phantomjs/highcharts.js",
+		"/Volumes/Mac late 2008/Users/Sada-Mac/Documents/work/Kinamania/kinamania.sublime-project",
+		"/D/Work/Private/Kinamania/html-beta/kinamania.sublime-project",
+		"/D/Work/Private/Kinamania/prod-test/css/app.css",
+		"/D/Work/Private/Kinamania/html-beta/css/app.css",
+		"/D/Work/Private/Kinamania/kinamania.sublime-project",
+		"/D/Work/Private/Kinamania/html-beta/ftpsync.settings",
+		"/D/Work/Sledizastroykoy/promo-page/package.json",
+		"/D/Work/Sledizastroykoy/promo-page/prod/css/main.css",
+		"/D/Work/Sledizastroykoy/promo-page/prod/ftpsync.settings",
+		"/D/Work/Sledizastroykoy/promo-page/prod/sendMail.php",
+		"/D/Work/Sledizastroykoy/promo-page/build/css/main.css",
+		"/C/Users/Andrey/AppData/Roaming/Sublime Text 3/Packages/Sublimerge 3/Sublimerge 3.sublime-settings",
+		"/C/Users/Andrey/AppData/Roaming/Sublime Text 3/Packages/Sublimerge 3/Default (Windows).sublime-keymap",
+		"/D/Work/Sledizastroykoy/promo-page/app/css/scss/app.scss",
+		"/D/Work/Sledizastroykoy/promo-page/prod/index.html",
+		"/D/Work/Sledizastroykoy/promo-page/build/index.html",
+		"/D/Work/Sledizastroykoy/promo-page/app/index.html",
+		"/C/Users/Andrey/AppData/Roaming/Sublime Text 3/Packages/User/Sublimerge 3.sublime-settings",
+		"/D/Work/Sledizastroykoy/promo-page/gulpfile.js",
+		"/D/Work/Sledizastroykoy/promo-page/build/ftpsync.settings",
+		"/D/Work/Sledizastroykoy/promo-page/SZS-promo-page.sublime-project",
+		"/C/Users/Andrey/AppData/Roaming/Sublime Text 3/Packages/FileDiffs/FileDiffs.sublime-settings",
+		"/C/Users/Andrey/AppData/Roaming/Sublime Text 3/Packages/User/FileDiffs.sublime-settings",
+		"/C/Users/Andrey/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/C/users/andrey/appdata/local/temp/sublime-sftp-browse-1533720299/promo-ftp/exdesign/promo/sendMail.php",
+		"/C/users/andrey/appdata/local/temp/sublime-sftp-browse-1533719193/promo-ftp/exdesign/promo/index.html",
+		"/C/users/andrey/appdata/local/temp/sublime-sftp-browse-1533718996/promo-ftp/exdesign/promo/index.html",
+		"/C/users/andrey/appdata/local/temp/sublime-sftp-browse-1533718765/promo-ftp/exdesign/promo/index.html",
+		"/C/Users/Andrey/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/promo-ftp",
+		"/D/Work/Sledizastroykoy/promo-page/promo-ftp",
+		"/D/Work/Sledizastroykoy/promo-page/app/css/scss/main.scss",
+		"/D/Work/Sledizastroykoy/promo-page/app/css/sprite.css",
+		"/D/Work/Deco-rum/deco-rum.sublime-project"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"",
+			"index",
+			"app.scss",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"invert",
+			"decor",
+			"nexus__screen",
+			"zoom",
+			"transi",
+			"onEn",
+			"onLe",
+			"onL",
+			"trigger1",
+			"pin-",
+			">\n",
+			"$length",
+			"leng",
+			"typographed",
+			"$gra",
+			"mb",
+			"typographed",
+			"\t\n",
+			"media",
+			"make",
+			")\n",
+			"\">",
+			"2",
+			"not",
+			"seconda",
+			"secon",
+			"dashed",
+			"h3",
+			"inval",
+			"magemin.gifsicle({interlaced: true}),\n            jpegrecompress({\n                progressive: true,\n                max: 90,\n                min: 80\n            }),\n            pngquant(),\n            i",
+			"Limit",
+			"full-article",
+			"Limit",
+			"add-favs",
+			"margin-left: -15",
+			"row",
+			"declar",
+			"75rem",
+			"aler",
+			"subscribe-form",
+			"подходит",
+			"очищ",
+			"drop",
+			"<i class=\"fas fa-seedling crimson\"></i>",
+			"form-group",
+			"origi",
+			"orig",
+			"price",
+			"aler",
+			"alerr",
+			"\n\t\t@include media-breakpoint-up(xl) {\n\t\t\t@include make-col(5);\n\t\t}\n",
+			"animat",
+			"80%",
+			"75%",
+			"80%",
+			"owl-base-link",
+			".price",
+			"form-control",
+			"color-i",
+			"button-base",
+			"inver",
+			"button-base",
+			"bu",
+			"show",
+			"carousel-header",
+			"gradi",
+			"wrap",
+			"no-gut",
+			"owl-dot",
+			";\n",
+			"black",
+			"/img/",
+			"last",
+			"adv-block-body",
+			"zoo",
+			"adv-block-name",
+			"}\n",
+			"$text-muted-color",
+			"muted",
+			"\n",
+			"\t\t\t\t<div class=\"col-3 offset-2\">\n\t\t\t\t\t\n\t\t\t\t</div>\n",
+			" id=\"navbarCollapse\"",
+			"md",
+			"></",
+			"width",
+			"head"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$base-text-color",
+			"$text-muted"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4703,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4170,
+								4170
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bs_sintax": "javascript",
+							"buffer_scroll_name": "423aa15c",
+							"spell_check": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2052.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1217,
+								1217
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bs_sintax": "html",
+							"buffer_scroll_name": "36f9e038",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 228.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1139,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								197,
+								197
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bs_sintax": "json",
+							"buffer_scroll_name": "126b5fee",
+							"spell_check": false,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "app/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1351,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								582,
+								582
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bs_sintax": "javascript",
+							"buffer_scroll_name": "49c8f577",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 809,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								573,
+								584
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bs_sintax": "javascript",
+							"buffer_scroll_name": "c6dc1c8d",
+							"spell_check": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/css/scss/app.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1259,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1226,
+								1226
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bs_sintax": "scss",
+							"buffer_scroll_name": "fab620c0",
+							"spell_check": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 974.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/css/scss/_mixins.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3906,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1631,
+								1631
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bs_sintax": "scss",
+							"buffer_scroll_name": "b59c156f",
+							"spell_check": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1026.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.506455399061,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "",
+	"project": "bureau-resume.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Work\\Private\\whamisa\\whamisa.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

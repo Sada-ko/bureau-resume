@@ -1,0 +1,12 @@
+// Including needed from Bootstrap 4
+@import "./node_modules/bootstrap/scss/bootstrap";
+// Turning on and off all shit
+
+@import "variables";  // my vars
+@import "mixins";  // my mixins
+
+// css-plugins, include first way for some reason
+@import "../../../node_modules/animate.css/animate.min.css";
+
+// Custom styles
+@import "app";
