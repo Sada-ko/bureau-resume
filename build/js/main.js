@@ -28075,19 +28075,19 @@ $(document).ready(function () {
 		};
 	}(jQuery, window, document));
 
-$('.fill-box').fillBox();
+	$('.fill-box').fillBox();
 });
 
 // TYPOGRAF
 $(document).ready(function () {
 	var tp = new Typograf({locale: ['ru', 'en-US']});
 	$( ".typographed" ).each(function() {
-		 $(this).html(tp.execute($(this).html()));
+		$(this).html(tp.execute($(this).html()));
 	});
 
 	$('#carouselMain').carousel({
-  interval: 200000
-})
+		interval: 200000
+	})
 
 // BIRMANIZER
 $(document).birmanizeAnchors(true);
