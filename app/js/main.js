@@ -2,11 +2,8 @@
 //= ../../node_modules/jquery/dist/jquery.js
 
 // POPPER
-//= ../../node_modules/popper.js/dist/umd/popper.js
-
 
 // Импортируем необходимые js-файлы Bootstrap 4
-//= ../../node_modules/bootstrap/js/dist/util.js
 
 // FONTAWESOME
 //= ../../node_modules/@fortawesome/fontawesome-pro/js/fontawesome.min.js
