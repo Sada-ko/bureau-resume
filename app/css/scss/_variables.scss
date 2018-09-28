@@ -11,5 +11,6 @@ $gray-800-transparent : transparentize(black, .2);
 $gray-900-transparent : transparentize(black, .1);
 $gray-1000-transparent: transparentize(black, 0);
 
-$link-color: 	rgb(0, 166, 237);
-$link-hover-color: 	rgb(244, 36, 57);
+$red                  : 	#A30000;
+$link-color           : 	#004777;
+$link-hover-color     : 	$red;

@@ -21,6 +21,8 @@
 //= ../../node_modules/@fortawesome/fontawesome-pro/js/fontawesome.min.js
 //= ../../node_modules/@fortawesome/fontawesome-pro/js/brands.min.js
 //= ../../node_modules/@fortawesome/fontawesome-pro/js/solid.min.js
+//= ../../node_modules/@fortawesome/fontawesome-pro/js/light.min.js
+//= ../../node_modules/@fortawesome/fontawesome-pro/js/regular.min.js
 
 // BIRMANIZATION
 //= AnchorBirmanizer.js

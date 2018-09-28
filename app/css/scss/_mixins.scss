@@ -10,7 +10,7 @@
   	border-bottom-style: dotted !important;
   }
 
-  &:hover {
+  &:hover, &.hover {
   	color: $link-hover-color;
   	border-bottom-color: transparentize($link-hover-color, .7) !important;
   	text-decoration: none;
