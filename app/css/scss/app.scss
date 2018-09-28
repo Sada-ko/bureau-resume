@@ -92,10 +92,10 @@ main {
 		float: right;
 		width: 250px;
 		left: 2rem;
-		margin-bottom: 2rem;
 	}
 	img {
-		width: 140px;
+		width: 100%;
+		// width: 140px;
 		display: inline-block;
 		vertical-align: top;
 		@include media-breakpoint-up(md) {
@@ -110,9 +110,13 @@ main {
 	list-style: none;
 	display: inline-block;
 	padding-left: 1rem;
-	padding-top: 1.5rem;
+	// padding-top: 1.25rem;
 	@include media-breakpoint-up(md) {
 		padding-left: 3rem;
+	}
+	@media (max-width: 400px)  {
+		// padding-left: 0;
+		font-size: .8em;
 	}
 	li {
 		margin-bottom: .5rem;
@@ -144,7 +148,9 @@ main {
 			.outer-icon{
 				position: absolute;
 				top: 3px;
-				left: -100px;
+				right: 670px;
+				width: 100px;
+				text-align: right;
 				display: none;
 				@include media-breakpoint-up(lg) {
 					display: block;
@@ -153,6 +159,8 @@ main {
 		}
 		.item-date{
 			color: $gray-400-transparent;
+			font-size: .8em;
+			// font-style: italic;
 		}
 		.list-aside{
 			padding-top: 1rem;
@@ -177,6 +185,38 @@ main {
 	}
 }
 
+.exdesign-logo-container {
+	display: block;
+	.exdesign-logo {
+		position: relative;
+		display: block;	
+		width: 68px;
+		height: 50px;
+		background-image: url(http://exdesign.ru/projects/apps/sledizastroykoi/img/exdesign-logo-directed.svg);
+		background-repeat: no-repeat;
+		.times-element{
+			position: absolute;
+			top: 0px;
+			left: 3px;
+			color: black;
+		}
+	}
+	&:hover, &.hover {
+		.times-element {
+			animation-name: spin;
+			animation-duration: 300ms;
+			animation-iteration-count: 1;
+			animation-timing-function: ease-out;
+		}
+	}
+}
+@keyframes spin { 
+	from { 
+		transform: rotate(0deg); 
+	} to { 
+		transform: rotate(270deg); 
+	}
+}
 .footer {
 	position: absolute;
 	bottom: 0;
