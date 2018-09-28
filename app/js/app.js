@@ -27,10 +27,6 @@ $(document).ready(function () {
 		$(this).html(tp.execute($(this).html()));
 	});
 
-	$('#carouselMain').carousel({
-		interval: 200000
-	})
-
 // BIRMANIZER
 $(document).birmanizeAnchors(true);
 
