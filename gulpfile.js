@@ -78,9 +78,9 @@ gulp.task('style:build', function () {
         })) //Добавим вендорные префиксы
 
     .pipe(postcss(processors))
-    // .pipe(cssnano())
+    .pipe(cssnano())
     .pipe(sourcemaps.write())
-    // .pipe(rename({suffix: '.min'}))
+    .pipe(rename({suffix: '.min'}))
         .pipe(gulp.dest(path.build.css)) //И в build
         .pipe(browserSync.reload({stream: true}));
     });
@@ -89,7 +89,7 @@ gulp.task('style:build', function () {
 gulp.task('js:build', function () {
     gulp.src(path.src.js) //Найдем наш main файл
         .pipe(rigger()) //Прогоним через rigger
-        // .pipe(uglify())
+        .pipe(uglify())
         .pipe(gulp.dest(path.build.js)) //Выплюнем готовый файл в build
         .pipe(browserSync.reload({stream: true})); //И перезагрузим сервер})
     });
