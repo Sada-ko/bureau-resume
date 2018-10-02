@@ -399,7 +399,7 @@
 			"file": "gulpfile.js",
 			"settings":
 			{
-				"buffer_size": 4703,
+				"buffer_size": 4694,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -408,7 +408,7 @@
 			"file": "app/index.html",
 			"settings":
 			{
-				"buffer_size": 8912,
+				"buffer_size": 9208,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -426,7 +426,7 @@
 			"file": "app/css/scss/app.scss",
 			"settings":
 			{
-				"buffer_size": 3163,
+				"buffer_size": 4094,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -444,7 +444,7 @@
 			"file": "app/css/scss/_mixins.scss",
 			"settings":
 			{
-				"buffer_size": 3915,
+				"buffer_size": 3760,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -655,6 +655,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"transition",
 			"dang",
 			"not",
 			"invert",
@@ -771,15 +772,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4703,
+						"buffer_size": 4694,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4170,
-								4170
+								0,
+								0
 							]
 						],
 						"settings":
@@ -788,6 +789,18 @@
 							[
 								{
 									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
 									"selector": "text.html"
 								},
 								{
@@ -819,15 +832,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8912,
+						"buffer_size": 9208,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6526,
-								6526
+								0,
+								0
 							]
 						],
 						"settings":
@@ -841,18 +854,31 @@
 								{
 									"characters": ".#",
 									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
 								}
 							],
 							"bs_sintax": "html",
 							"buffer_scroll_name": "36f9e038",
 							"spell_check": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2314.0,
+						"translation.y": 889.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -887,6 +913,18 @@
 								{
 									"characters": ".#",
 									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
 								}
 							],
 							"bs_sintax": "json",
@@ -906,7 +944,7 @@
 			]
 		},
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -915,15 +953,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3163,
+						"buffer_size": 4094,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2693,
-								2693
+								0,
+								0
 							]
 						],
 						"settings":
@@ -932,6 +970,18 @@
 							[
 								{
 									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
 									"selector": "text.html"
 								},
 								{
@@ -946,7 +996,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2394.0,
+						"translation.y": 1054.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -980,6 +1030,18 @@
 								{
 									"characters": ".#",
 									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
 								}
 							],
 							"bs_sintax": "scss",
@@ -1000,15 +1062,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3915,
+						"buffer_size": 3760,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								282,
-								282
+								554,
+								554
 							]
 						],
 						"settings":
@@ -1022,6 +1084,18 @@
 								{
 									"characters": ".#",
 									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
 								}
 							],
 							"bs_sintax": "scss",
@@ -1030,10 +1104,10 @@
 							"syntax": "Packages/SCSS/SCSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 171.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -1127,7 +1201,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
