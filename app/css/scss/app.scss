@@ -59,13 +59,12 @@ h1 + h2, h2 + h3, h3 + h4, h4 + h5 {
 a {
 	@include link-style($link-color, $link-hover-color);
 
-	&.inside {
-		@include inside-link-style($link-color, $link-hover-color);
-	}
-
 	&.dotted {
 		border-bottom-style: dotted !important;
 	}
+}
+a.inside {
+	@include inside-link-style($link-color, $link-hover-color);
 }
 
 .container {
