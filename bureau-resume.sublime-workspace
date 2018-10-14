@@ -5,19 +5,43 @@
 		[
 			[
 				"mar",
-				"margin-top\tproperty"
+				"margin-left"
 			],
 			[
-				"in",
-				"inside\t app.css"
+				"fons",
+				"font-style"
 			],
 			[
 				"pad",
-				"padding-top"
+				"padding-left"
 			],
 			[
-				"bor",
-				"border-top"
+				"mb",
+				"mb-2"
+			],
+			[
+				"text-s",
+				"text-success\t main.css"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"text-r",
+				"text-right\t main.css"
+			],
+			[
+				"down",
+				"down-1"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"marg",
+				"margin-right"
 			],
 			[
 				"c",
@@ -144,10 +168,6 @@
 				"flex"
 			],
 			[
-				"marg",
-				"margin"
-			],
-			[
 				"font",
 				"font-size"
 			],
@@ -192,10 +212,6 @@
 				"col-md-6\t main.min.css"
 			],
 			[
-				"wi",
-				"width"
-			],
-			[
 				"offset-l",
 				"offset-lg-4\t main.min.css"
 			],
@@ -210,6 +226,10 @@
 			[
 				"posi",
 				"position"
+			],
+			[
+				"in",
+				"include"
 			],
 			[
 				"f",
@@ -294,6 +314,10 @@
 			[
 				"col",
 				"color"
+			],
+			[
+				"bor",
+				"border-radius"
 			],
 			[
 				"al",
@@ -405,19 +429,19 @@
 			}
 		},
 		{
-			"file": "app/index.html",
+			"file": "app/css/scss/main.scss",
 			"settings":
 			{
-				"buffer_size": 9208,
+				"buffer_size": 268,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "package.json",
+			"file": "app/js/main.js",
 			"settings":
 			{
-				"buffer_size": 1139,
+				"buffer_size": 608,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -428,14 +452,14 @@
 			{
 				"buffer_size": 4094,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "app/css/scss/_variables.scss",
+			"file": "app/js/app.js",
 			"settings":
 			{
-				"buffer_size": 668,
+				"buffer_size": 755,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -446,7 +470,7 @@
 			{
 				"buffer_size": 3760,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -502,26 +526,24 @@
 	},
 	"expanded_folders":
 	[
-		"/D/Work/Private/Resume",
-		"/D/Work/Private/Resume/app",
-		"/D/Work/Private/Resume/app/css",
-		"/D/Work/Private/Resume/app/css/scss",
-		"/D/Work/Private/Resume/app/js",
-		"/D/Work/Private/Resume/build",
-		"/D/Work/Private/Resume/node_modules",
-		"/D/Work/Private/Resume/node_modules/bootstrap",
-		"/D/Work/Private/Resume/node_modules/bootstrap/scss"
+		"/Volumes/Mac late 2008/Users/Sada-Mac/Documents/work/bureau-resume",
+		"/Volumes/Mac late 2008/Users/Sada-Mac/Documents/work/bureau-resume/app",
+		"/Volumes/Mac late 2008/Users/Sada-Mac/Documents/work/bureau-resume/app/css",
+		"/Volumes/Mac late 2008/Users/Sada-Mac/Documents/work/bureau-resume/app/css/scss",
+		"/Volumes/Mac late 2008/Users/Sada-Mac/Documents/work/bureau-resume/app/js"
 	],
 	"file_history":
 	[
-		"/D/Work/Private/Resume/node_modules/bootstrap/scss/_variables.scss",
-		"/D/Work/Private/Resume/app/js/app.js",
-		"/D/Work/Private/Resume/app/js/main.js",
-		"/D/Work/Private/Resume/app/css/scss/_mixins.scss",
+		"/Volumes/Mac late 2008/Users/Sada-Mac/Documents/work/bureau-resume/app/index.html",
+		"/Volumes/Mac late 2008/Users/Sada-Mac/Documents/work/bureau-resume/app/js/app.js",
+		"/Volumes/Mac late 2008/Users/Sada-Mac/Documents/work/bureau-resume/package.json",
+		"/Volumes/Mac late 2008/Users/Sada-Mac/Documents/work/bureau-resume/.gitignore",
 		"/D/Work/Private/Resume/app/css/scss/_variables.scss",
-		"/D/Work/Private/Resume/app/css/scss/main.scss",
+		"/D/Work/Private/Resume/app/css/scss/_mixins.scss",
 		"/D/Work/Private/Resume/app/index.html​",
+		"/D/Work/Private/Resume/app/js/app.js",
 		"/D/Work/Private/Resume/app/js/main.js​",
+		"/D/Work/Private/Resume/app/css/scss/main.scss",
 		"/D/Work/Private/Resume/app/css/scss/app.scss",
 		"/D/Work/Private/Resume/app/css/scss/app.scss​",
 		"/D/Work/exdesign/site new 2018/html/app/css/scss/_variables.scss",
@@ -637,7 +659,7 @@
 	],
 	"find":
 	{
-		"height": 40.0
+		"height": 24.0
 	},
 	"find_in_files":
 	{
@@ -655,9 +677,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"transition",
-			"dang",
-			"not",
+			"typogra",
+			"down-2",
+			"far",
 			"invert",
 			"decor",
 			"nexus__screen",
@@ -763,7 +785,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -779,8 +801,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								1933,
+								1933
 							]
 						],
 						"settings":
@@ -789,14 +811,6 @@
 							[
 								{
 									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
 									"selector": "text.html"
 								},
 								{
@@ -814,33 +828,36 @@
 							],
 							"bs_sintax": "javascript",
 							"buffer_scroll_name": "423aa15c",
+							"incomplete_sync": null,
+							"remote_loading": false,
 							"spell_check": false,
+							"synced": false,
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2052.0,
+						"translation.y": 735.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "app/index.html",
+					"file": "app/css/scss/main.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9208,
+						"buffer_size": 268,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								236,
+								236
 							]
 						],
 						"settings":
@@ -854,48 +871,44 @@
 								{
 									"characters": ".#",
 									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
 								}
 							],
-							"bs_sintax": "html",
-							"buffer_scroll_name": "36f9e038",
+							"bs_sintax": "scss",
+							"buffer_scroll_name": "374636bc",
+							"incomplete_sync": null,
+							"remote_loading": false,
 							"spell_check": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 889.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
 					"type": "text"
-				},
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
 				{
 					"buffer": 2,
-					"file": "package.json",
+					"file": "app/js/main.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1139,
+						"buffer_size": 608,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								197,
-								197
+								78,
+								78
 							]
 						],
 						"settings":
@@ -913,26 +926,15 @@
 								{
 									"characters": ".#",
 									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
 								}
 							],
-							"bs_sintax": "json",
-							"buffer_scroll_name": "126b5fee",
+							"bs_sintax": "javascript",
+							"buffer_scroll_name": "49c8f577",
+							"incomplete_sync": null,
+							"remote_loading": false,
 							"spell_check": false,
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -940,13 +942,7 @@
 					},
 					"stack_index": 5,
 					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 2,
-			"sheets":
-			[
+				},
 				{
 					"buffer": 3,
 					"file": "app/css/scss/app.scss",
@@ -979,24 +975,19 @@
 								{
 									"characters": ".#",
 									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
 								}
 							],
 							"bs_sintax": "scss",
 							"buffer_scroll_name": "fab620c0",
+							"incomplete_sync": null,
+							"remote_loading": false,
 							"spell_check": false,
+							"synced": false,
 							"syntax": "Packages/SCSS/SCSS.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1054.0,
+						"translation.y": 1399.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -1004,19 +995,19 @@
 				},
 				{
 					"buffer": 4,
-					"file": "app/css/scss/_variables.scss",
+					"file": "app/js/app.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 668,
+						"buffer_size": 755,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								651,
-								651
+								655,
+								655
 							]
 						],
 						"settings":
@@ -1030,24 +1021,16 @@
 								{
 									"characters": ".#",
 									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
 								}
 							],
-							"bs_sintax": "scss",
-							"buffer_scroll_name": "1e5721e5",
+							"bs_sintax": "javascript",
+							"buffer_scroll_name": "99e36eca",
+							"incomplete_sync": null,
+							"remote_loading": false,
 							"spell_check": false,
-							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1069,8 +1052,8 @@
 						"selection":
 						[
 							[
-								554,
-								554
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1088,26 +1071,21 @@
 								{
 									"characters": ".#",
 									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
 								}
 							],
 							"bs_sintax": "scss",
 							"buffer_scroll_name": "b59c156f",
+							"incomplete_sync": null,
+							"remote_loading": false,
 							"spell_check": false,
+							"synced": false,
 							"syntax": "Packages/SCSS/SCSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 171.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
@@ -1115,7 +1093,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 24.0
 	},
 	"input":
 	{
@@ -1141,7 +1119,7 @@
 		"cols":
 		[
 			0.0,
-			0.506455399061,
+			0.576949807762,
 			1.0
 		],
 		"rows":
@@ -1167,7 +1145,7 @@
 	"project": "bureau-resume.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 44.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1201,7 +1179,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
