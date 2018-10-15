@@ -810,6 +810,10 @@
 								{
 									"characters": ".#",
 									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
 								}
 							],
 							"bs_sintax": "javascript",
@@ -866,6 +870,10 @@
 								{
 									"characters": ".#",
 									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
 								}
 							],
 							"bs_sintax": "html",
@@ -904,6 +912,10 @@
 							[
 								{
 									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
 									"selector": "text.html"
 								},
 								{
@@ -987,6 +999,10 @@
 								{
 									"characters": ".#",
 									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
 								}
 							],
 							"bs_sintax": "scss",
@@ -1042,6 +1058,10 @@
 								{
 									"characters": ".#",
 									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
 								}
 							],
 							"bs_sintax": "scss",
@@ -1069,8 +1089,8 @@
 						"selection":
 						[
 							[
-								554,
-								554
+								697,
+								836
 							]
 						],
 						"settings":
@@ -1096,12 +1116,17 @@
 								{
 									"characters": ".#",
 									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
 								}
 							],
 							"bs_sintax": "scss",
 							"buffer_scroll_name": "b59c156f",
 							"spell_check": false,
-							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 171.0,
@@ -1187,7 +1212,7 @@
 		[
 			[
 				"",
-				"D:\\Work\\Private\\whamisa\\whamisa.sublime-project"
+				"D:\\Work\\exdesign\\site new 2018\\exdesign-2018.sublime-project"
 			]
 		],
 		"width": 380.0
