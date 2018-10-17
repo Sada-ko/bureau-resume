@@ -4,8 +4,24 @@
 		"selected_items":
 		[
 			[
+				"pro",
+				"project-image"
+			],
+			[
 				"mar",
-				"margin-top\tproperty"
+				"margin-right"
+			],
+			[
+				"pt",
+				"pt-5\t app.css"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"bac",
+				"background-position\tproperty"
 			],
 			[
 				"in",
@@ -26,10 +42,6 @@
 			[
 				"col1",
 				"col-12\t main.css"
-			],
-			[
-				"bac",
-				"background"
 			],
 			[
 				"ba",
@@ -396,46 +408,29 @@
 	"buffers":
 	[
 		{
-			"file": "gulpfile.js",
-			"settings":
-			{
-				"buffer_size": 4694,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "app/index.html",
 			"settings":
 			{
-				"buffer_size": 9208,
+				"buffer_size": 9191,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "package.json",
+			"file": "app/portfolio.html",
 			"settings":
 			{
-				"buffer_size": 1139,
+				"buffer_size": 6920,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "app/css/scss/app.scss",
 			"settings":
 			{
-				"buffer_size": 4094,
+				"buffer_size": 5399,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/js/app.js",
-			"settings":
-			{
-				"buffer_size": 755,
 				"line_ending": "Windows"
 			}
 		},
@@ -522,6 +517,8 @@
 	],
 	"file_history":
 	[
+		"/D/Work/Private/Resume/gulpfile.js",
+		"/D/Work/Private/Resume/package.json",
 		"/D/Work/Private/Resume/node_modules/bootstrap/scss/_variables.scss",
 		"/D/Work/Private/Resume/app/js/app.js",
 		"/D/Work/Private/Resume/app/js/main.js",
@@ -771,92 +768,24 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "gulpfile.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4694,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"bs_sintax": "javascript",
-							"buffer_scroll_name": "423aa15c",
-							"spell_check": false,
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2052.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "app/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9208,
+						"buffer_size": 9191,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1081,
-								9132
+								1486,
+								1486
 							]
 						],
 						"settings":
@@ -865,6 +794,10 @@
 							[
 								{
 									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
 									"selector": "text.html"
 								},
 								{
@@ -899,101 +832,65 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 3980.0,
+						"translation.y": 104.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "package.json",
+					"buffer": 1,
+					"file": "app/portfolio.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1139,
+						"buffer_size": 6920,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1061,
-								1102
+								5750,
+								5750
 							]
 						],
 						"settings":
 						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"bs_sintax": "json",
-							"buffer_scroll_name": "126b5fee",
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "26dd6652",
 							"spell_check": false,
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2897.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
 		},
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
-					"buffer": 3,
+					"buffer": 2,
 					"file": "app/css/scss/app.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4094,
+						"buffer_size": 5399,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								225,
-								225
+								2928,
+								2928
 							]
 						],
 						"settings":
@@ -1002,6 +899,10 @@
 							[
 								{
 									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
 									"selector": "text.html"
 								},
 								{
@@ -1036,57 +937,14 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1800.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "app/js/app.js",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 755,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								471,
-								471
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"bs_sintax": "javascript",
-							"buffer_scroll_name": "c6dc1c8d",
-							"spell_check": false,
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
+					"buffer": 3,
 					"file": "app/css/scss/_variables.scss",
 					"semi_transient": false,
 					"settings":
@@ -1133,6 +991,10 @@
 								{
 									"characters": ".#",
 									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
 								}
 							],
 							"bs_sintax": "scss",
@@ -1148,7 +1010,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 4,
 					"file": "app/css/scss/_mixins.scss",
 					"semi_transient": false,
 					"settings":
@@ -1170,6 +1032,10 @@
 							[
 								{
 									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
 									"selector": "text.html"
 								},
 								{
@@ -1301,7 +1167,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
