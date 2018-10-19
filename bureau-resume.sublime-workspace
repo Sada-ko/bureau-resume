@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"dlg",
+				"d-lg-inline\t app.css"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
 				"pro",
 				"project-image"
 			],
@@ -26,10 +34,6 @@
 			[
 				"in",
 				"inside\t app.css"
-			],
-			[
-				"pad",
-				"padding-top"
 			],
 			[
 				"bor",
@@ -58,10 +62,6 @@
 			[
 				"no",
 				"no-decoration\t main.css"
-			],
-			[
-				"dlg",
-				"d-lg-none\t main.css"
 			],
 			[
 				"py",
@@ -420,8 +420,16 @@
 			"file": "app/portfolio.html",
 			"settings":
 			{
-				"buffer_size": 6920,
+				"buffer_size": 7339,
 				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/js/app.js",
+			"settings":
+			{
+				"buffer_size": 755,
 				"line_ending": "Windows"
 			}
 		},
@@ -429,7 +437,7 @@
 			"file": "app/css/scss/app.scss",
 			"settings":
 			{
-				"buffer_size": 5399,
+				"buffer_size": 5462,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -823,6 +831,10 @@
 								{
 									"characters": ".#",
 									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
 								}
 							],
 							"bs_sintax": "html",
@@ -844,19 +856,30 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6920,
+						"buffer_size": 7339,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5750,
-								5750
+								2737,
+								2737
 							]
 						],
 						"settings":
 						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
 							"bs_sintax": "plain text",
 							"buffer_scroll_name": "26dd6652",
 							"spell_check": false,
@@ -864,10 +887,53 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2897.0,
+						"translation.y": 1282.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/js/app.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 755,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								471
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bs_sintax": "javascript",
+							"buffer_scroll_name": "c6dc1c8d",
+							"spell_check": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -877,20 +943,20 @@
 			"sheets":
 			[
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"file": "app/css/scss/app.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5399,
+						"buffer_size": 5462,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2928,
-								2928
+								5266,
+								5266
 							]
 						],
 						"settings":
@@ -899,6 +965,10 @@
 							[
 								{
 									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
 									"selector": "text.html"
 								},
 								{
@@ -937,14 +1007,14 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1800.0,
+						"translation.y": 3041.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 4,
 					"file": "app/css/scss/_variables.scss",
 					"semi_transient": false,
 					"settings":
@@ -995,6 +1065,10 @@
 								{
 									"characters": ".#",
 									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
 								}
 							],
 							"bs_sintax": "scss",
@@ -1006,11 +1080,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 5,
 					"file": "app/css/scss/_mixins.scss",
 					"semi_transient": false,
 					"settings":
@@ -1061,6 +1135,10 @@
 								{
 									"characters": ".#",
 									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
 								}
 							],
 							"bs_sintax": "scss",
@@ -1073,7 +1151,7 @@
 						"translation.y": 171.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 5,
 					"type": "text"
 				}
 			]
